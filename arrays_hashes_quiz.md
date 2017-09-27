@@ -6,8 +6,8 @@
 lines = ['Gyle Centre', 'Edinburgh Park', 'Murrayfield Stadium', 'Haymarket', 'Princes Street']
 ```
 
-1. Work out how many stops there are in the array: 5
-2. Return 'Edinburgh Park' from the array
+1. Work out how many stops there are in the array:
+2. Return 'Edinburgh Park' from the array:
 3. How many ways can we return 'Princes Street' from the array?
 4. Work out the index position of 'Haymarket'
 5. Add 'Airport' to the start of the array

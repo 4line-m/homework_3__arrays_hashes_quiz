@@ -1,4 +1,5 @@
 # Homework
+Completed :)
 
 ### A. Given the following data structure:
 

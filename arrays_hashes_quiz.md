@@ -12,7 +12,7 @@ lines = ['Gyle Centre', 'Edinburgh Park', 'Murrayfield Stadium', 'Haymarket', 'P
 4. Work out the index position of 'Haymarket'
 5. Add 'Airport' to the start of the array
 6. Add 'York Place' to the end of the array
-7. Remove 'Edinburgh Park' from the array using it's name
+7. Remove 'Edinburgh  Park' from the array using it's name
 8. Delete 'Edinburgh Park' from the array by index
 9. Reverse the positions of the stops in the array
 
